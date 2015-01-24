@@ -2,6 +2,7 @@
 A small command line utility to retrieve student grades from SoCs online system
 
 **Run a vitual environment**
+
 If you don't want to have the dependencies on your system.
 
 ```bash
@@ -14,7 +15,8 @@ pip install -r requirements.txt
 ```
 
 **Change your username and password**
-Got to the `socs.py` file. Look at the first few lines:
+
+Go to the `socs.py` file. Look at the first few lines:
 ```python
 # enter your login info
 studentNumber = ''
