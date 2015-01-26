@@ -1,4 +1,5 @@
-# SoCsConnect
+SoCsConnect
+===========
 A small command line utility to retrieve student grades from SoCs online system
 
 **Run a vitual environment**
@@ -36,3 +37,11 @@ To be super hipster you could do
 chmod +x socs.py
 ```
 And from then on run it like so `./socs.py`
+
+##Contributing
+
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
